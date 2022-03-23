@@ -1,0 +1,9 @@
+{
+	"name": "tutoadf1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a275063-7499-44ab-8c5f-4e20a25295a9",
+		"tenantId": "d4e6b07b-a651-4364-97af-28b81c0012ed"
+	}
+}

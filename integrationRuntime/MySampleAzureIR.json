@@ -1,0 +1,6 @@
+{
+	"name": "MySampleAzureIR",
+	"properties": {
+		"type": "Managed"
+	}
+}
